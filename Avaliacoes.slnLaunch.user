@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "Avaliacoes\\Avaliacoes.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "Frontend\\Frontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
