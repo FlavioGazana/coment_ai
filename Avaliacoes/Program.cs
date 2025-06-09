@@ -11,6 +11,9 @@ using System.Text.Json.Serialization;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using Microsoft.AspNetCore.SpaServices;
+using Microsoft.AspNetCore.SpaServices.Extensions;
+using Microsoft.AspNetCore.SpaServices.ReactDevelopmentServer;
 
 
 
@@ -83,6 +86,11 @@ namespace Avaliacoes
                     };
                 });
 
+            builder.Services.AddSpaStaticFiles(configuration =>
+            {
+                configuration.RootPath = "../Frontend/dist";
+            });
+
             var aplicativo = builder.Build();
 
             aplicativo.UseCors();
@@ -93,11 +101,23 @@ namespace Avaliacoes
                 aplicativo.UseSwaggerUI();
             }
 
+
             aplicativo.UseHttpsRedirection();
             aplicativo.MapControllers();
             aplicativo.UseStaticFiles();
             aplicativo.UseAuthentication();
             aplicativo.UseAuthorization();
+
+            aplicativo.UseSpa(spa =>
+            {
+                spa.Options.SourcePath = "../Frontend/ecommerce-complete";
+
+                if (aplicativo.Environment.IsDevelopment())
+                {
+                    spa.UseProxyToSpaDevelopmentServer("http://localhost:8080/");
+                }
+            });
+
             aplicativo.Run();
 
         }

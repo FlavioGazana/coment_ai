@@ -52,5 +52,14 @@ D:\BACK\csharp\Avaliacoes\Frontend\obj\Debug\net8.0\refint\Frontend.dll
 D:\BACK\csharp\Avaliacoes\Frontend\obj\Debug\net8.0\Frontend.pdb
 D:\BACK\csharp\Avaliacoes\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
 D:\BACK\csharp\Avaliacoes\Frontend\obj\Debug\net8.0\ref\Frontend.dll
-E:\BACK\csharp\Avaliacoes\Frontend\bin\Debug\net8.0\Front\ecommerce-complete\package-lock.json
-E:\BACK\csharp\Avaliacoes\Frontend\bin\Debug\net8.0\Front\ecommerce-complete\package.json
+E:\BACK\csharp\Avaliacoes\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+E:\BACK\csharp\Avaliacoes\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+E:\BACK\csharp\Avaliacoes\Frontend\obj\Debug\net8.0\Frontend.sourcelink.json
+E:\BACK\csharp\Avaliacoes\Frontend\bin\Debug\net8.0\ecommerce-complete\package-lock.json
+E:\BACK\csharp\Avaliacoes\Frontend\bin\Debug\net8.0\ecommerce-complete\package.json
+E:\BACK\csharp\Avaliacoes\Frontend\bin\Debug\net8.0\package-lock.json
+E:\BACK\csharp\Avaliacoes\Frontend\bin\Debug\net8.0\Microsoft.AspNetCore.NodeServices.dll
+E:\BACK\csharp\Avaliacoes\Frontend\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.dll
+E:\BACK\csharp\Avaliacoes\Frontend\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\BACK\csharp\Avaliacoes\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\BACK\csharp\Avaliacoes\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date

@@ -242,3 +242,5 @@ D:\BACK\csharp\Avaliacoes\Avaliacoes\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swa
 D:\BACK\csharp\Avaliacoes\Avaliacoes\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\BACK\csharp\Avaliacoes\Avaliacoes\obj\Debug\net8.0\Avaliacoes.MvcApplicationPartsAssemblyInfo.cs
 E:\BACK\csharp\Avaliacoes\Avaliacoes\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\BACK\csharp\Avaliacoes\Avaliacoes\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\BACK\csharp\Avaliacoes\Avaliacoes\obj\Debug\net8.0\Avaliacoes.sourcelink.json

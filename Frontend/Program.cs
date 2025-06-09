@@ -1,4 +1,6 @@
 using Microsoft.Extensions.FileProviders;
+using Microsoft.AspNetCore.SpaServices;
+using Microsoft.AspNetCore.SpaServices.Extensions;
 namespace Frontend
 {
     public class Program
@@ -6,22 +8,46 @@ namespace Frontend
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddSpaStaticFiles(configuration =>
+            {
+                configuration.RootPath = "Frontend/dist";
+            });
+
             var app = builder.Build();
 
-            var frontPath = Path.Combine(Directory.GetCurrentDirectory(), "Front");
+            app.UseStaticFiles();
 
-            app.UseDefaultFiles(new DefaultFilesOptions
+            app.UseSpaStaticFiles();
+
+            app.UseSpa(spa =>
             {
-                FileProvider = new PhysicalFileProvider(frontPath),
-                RequestPath = ""
+                spa.Options.SourcePath = "Frontend";
+
+                if (app.Environment.IsDevelopment())
+                {
+                    spa.UseProxyToSpaDevelopmentServer("http://localhost:8080");
+                }
             });
 
-            app.UseStaticFiles(new StaticFileOptions
-            {
-                FileProvider = new PhysicalFileProvider(frontPath),
-                RequestPath = ""
-            });
+         
             app.Run();
         }
     }
 }
+
+
+//var frontPath = Path.Combine(Directory.GetCurrentDirectory(), "Front");
+
+
+//app.UseDefaultFiles(new DefaultFilesOptions
+//{
+//    FileProvider = new PhysicalFileProvider(frontPath),
+//    RequestPath = ""
+//});
+
+//app.UseStaticFiles(new StaticFileOptions
+//{
+//    FileProvider = new PhysicalFileProvider(frontPath),
+//    RequestPath = ""
+//});

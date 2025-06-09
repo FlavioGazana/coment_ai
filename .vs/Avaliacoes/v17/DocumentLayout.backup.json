@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\BACK\\csharp\\Avaliacoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|e:\\back\\csharp\\avaliacoes\\avaliacoes\\models\\opiniao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|solutionrelative:avaliacoes\\models\\opiniao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|e:\\back\\csharp\\avaliacoes\\avaliacoes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|solutionrelative:avaliacoes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|e:\\back\\csharp\\avaliacoes\\avaliacoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|solutionrelative:avaliacoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|e:\\back\\csharp\\avaliacoes\\frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|solutionrelative:frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|e:\\back\\csharp\\avaliacoes\\frontend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|solutionrelative:frontend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|e:\\back\\csharp\\avaliacoes\\avaliacoes\\controllers\\opinioescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|e:\\back\\csharp\\avaliacoes\\avaliacoes\\dto\\opiniaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|solutionrelative:avaliacoes\\dto\\opiniaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|e:\\back\\csharp\\avaliacoes\\avaliacoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|solutionrelative:avaliacoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|e:\\back\\csharp\\avaliacoes\\avaliacoes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|solutionrelative:avaliacoes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|e:\\back\\csharp\\avaliacoes\\avaliacoes\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,36 +39,8 @@
       "RelativeMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|solutionrelative:avaliacoes\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|e:\\back\\csharp\\avaliacoes\\avaliacoes\\gemini\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|solutionrelative:avaliacoes\\gemini\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|e:\\back\\csharp\\avaliacoes\\frontend\\frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|solutionrelative:frontend\\frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|e:\\back\\csharp\\avaliacoes\\avaliacoes\\avaliacoes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4AC52A8B-72B2-4433-9646-3A6D87413613}|Avaliacoes\\Avaliacoes.csproj|solutionrelative:avaliacoes\\avaliacoes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|e:\\back\\csharp\\avaliacoes\\frontend\\front\\cadastro\\cadastroop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|solutionrelative:frontend\\front\\cadastro\\cadastroop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|e:\\back\\csharp\\avaliacoes\\frontend\\front\\assets\\script\\resumo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|solutionrelative:frontend\\front\\assets\\script\\resumo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|e:\\back\\csharp\\avaliacoes\\frontend\\front\\assets\\script\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|solutionrelative:frontend\\front\\assets\\script\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|e:\\back\\csharp\\avaliacoes\\frontend\\front\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|solutionrelative:frontend\\front\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|e:\\back\\csharp\\avaliacoes\\frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6FDF9438-60B9-4F64-8DFE-60E23B8E6E92}|Frontend\\Frontend.csproj|solutionrelative:frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Front\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\Front\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,60 +50,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 304,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Frontend\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Frontend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T06:59:35.051Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OpinioesController.cs",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Controllers\\OpinioesController.cs",
-              "RelativeDocumentMoniker": "Avaliacoes\\Controllers\\OpinioesController.cs",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Controllers\\OpinioesController.cs",
-              "RelativeToolTip": "Avaliacoes\\Controllers\\OpinioesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T21:07:24.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OpiniaoDTO.cs",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\DTO\\OpiniaoDTO.cs",
-              "RelativeDocumentMoniker": "Avaliacoes\\DTO\\OpiniaoDTO.cs",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\DTO\\OpiniaoDTO.cs",
-              "RelativeToolTip": "Avaliacoes\\DTO\\OpiniaoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:10:03.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProdutosController.cs",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Controllers\\ProdutosController.cs",
-              "RelativeDocumentMoniker": "Avaliacoes\\Controllers\\ProdutosController.cs",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Controllers\\ProdutosController.cs",
-              "RelativeToolTip": "Avaliacoes\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAswDoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:06:06.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Avaliacoes\\Properties\\launchSettings.json",
               "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Properties\\launchSettings.json",
               "RelativeToolTip": "Avaliacoes\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-19T06:57:33.988Z",
               "EditorCaption": ""
@@ -135,19 +86,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\package-lock.json",
+              "RelativeDocumentMoniker": "Frontend\\package-lock.json",
+              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\package-lock.json",
+              "RelativeToolTip": "Frontend\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T00:48:39.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Program.cs",
               "RelativeDocumentMoniker": "Avaliacoes\\Program.cs",
               "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Program.cs",
               "RelativeToolTip": "Avaliacoes\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwBwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T23:19:08.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpinioesController.cs",
+              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Controllers\\OpinioesController.cs",
+              "RelativeDocumentMoniker": "Avaliacoes\\Controllers\\OpinioesController.cs",
+              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Controllers\\OpinioesController.cs",
+              "RelativeToolTip": "Avaliacoes\\Controllers\\OpinioesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:07:24.65Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Avaliacoes\\Controllers\\ProdutosController.cs",
+              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Avaliacoes\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:06:06.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpiniaoDTO.cs",
+              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\DTO\\OpiniaoDTO.cs",
+              "RelativeDocumentMoniker": "Avaliacoes\\DTO\\OpiniaoDTO.cs",
+              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\DTO\\OpiniaoDTO.cs",
+              "RelativeToolTip": "Avaliacoes\\DTO\\OpiniaoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:10:03.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Produto.cs",
               "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "Avaliacoes\\Models\\Produto.cs",
@@ -155,12 +155,11 @@
               "RelativeToolTip": "Avaliacoes\\Models\\Produto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:02:34.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T23:02:34.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ProdutoDTO.cs",
               "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\DTO\\ProdutoDTO.cs",
               "RelativeDocumentMoniker": "Avaliacoes\\DTO\\ProdutoDTO.cs",
@@ -168,12 +167,11 @@
               "RelativeToolTip": "Avaliacoes\\DTO\\ProdutoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T01:09:30.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T01:09:30.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "index.html",
               "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Front\\index.html",
               "RelativeDocumentMoniker": "Frontend\\Front\\index.html",
@@ -182,109 +180,6 @@
               "ViewState": "AgIAAOYAAAAAAAAAAIBJwPkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-19T09:08:22.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Consumo.cs",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Gemini\\Consumo.cs",
-              "RelativeDocumentMoniker": "Avaliacoes\\Gemini\\Consumo.cs",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Gemini\\Consumo.cs",
-              "RelativeToolTip": "Avaliacoes\\Gemini\\Consumo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T04:43:22.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "script.js",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Front\\assets\\script\\script.js",
-              "RelativeDocumentMoniker": "Frontend\\Front\\assets\\script\\script.js",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Front\\assets\\script\\script.js",
-              "RelativeToolTip": "Frontend\\Front\\assets\\script\\script.js",
-              "ViewState": "AgIAAAwAAAAAAAAAAIBJwBAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-19T08:48:27.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Frontend.csproj",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Frontend.csproj",
-              "RelativeDocumentMoniker": "Frontend\\Frontend.csproj",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Frontend.csproj",
-              "RelativeToolTip": "Frontend\\Frontend.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T06:16:30.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CadastroOp.html",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Front\\cadastro\\CadastroOp.html",
-              "RelativeDocumentMoniker": "Frontend\\Front\\cadastro\\CadastroOp.html",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Front\\cadastro\\CadastroOp.html",
-              "RelativeToolTip": "Frontend\\Front\\cadastro\\CadastroOp.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-31T01:14:36.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Avaliacoes.csproj",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Avaliacoes.csproj",
-              "RelativeDocumentMoniker": "Avaliacoes\\Avaliacoes.csproj",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Avaliacoes.csproj",
-              "RelativeToolTip": "Avaliacoes\\Avaliacoes.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T04:39:49.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Frontend\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Frontend\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T06:59:35.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "resumo.js",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Front\\assets\\script\\resumo.js",
-              "RelativeDocumentMoniker": "Frontend\\Front\\assets\\script\\resumo.js",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Frontend\\Front\\assets\\script\\resumo.js",
-              "RelativeToolTip": "Frontend\\Front\\assets\\script\\resumo.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-19T09:11:58.036Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 304,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Opiniao.cs",
-              "DocumentMoniker": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Models\\Opiniao.cs",
-              "RelativeDocumentMoniker": "Avaliacoes\\Models\\Opiniao.cs",
-              "ToolTip": "E:\\BACK\\csharp\\Avaliacoes\\Avaliacoes\\Models\\Opiniao.cs",
-              "RelativeToolTip": "Avaliacoes\\Models\\Opiniao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T21:20:47.638Z",
-              "EditorCaption": ""
             }
           ]
         }
